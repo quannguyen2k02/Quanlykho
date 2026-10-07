@@ -1,0 +1,12 @@
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\bin\Debug\net9.0\Domain.deps.json
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\bin\Debug\net9.0\Domain.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\bin\Debug\net9.0\Domain.pdb
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\refint\Domain.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.pdb
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\ref\Domain.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.csproj.Up2Date

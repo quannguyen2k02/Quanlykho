@@ -1,0 +1,15 @@
+F:\Code\Kho_API\Quan_Ly_Kho\Application\bin\Debug\net9.0\Application.deps.json
+F:\Code\Kho_API\Quan_Ly_Kho\Application\bin\Debug\net9.0\Application.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Application\bin\Debug\net9.0\Application.pdb
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\refint\Application.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.pdb
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\ref\Application.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Application\bin\Debug\net9.0\Domain.dll
+F:\Code\Kho_API\Quan_Ly_Kho\Application\bin\Debug\net9.0\Domain.pdb
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
