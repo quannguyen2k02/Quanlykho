@@ -47,6 +47,10 @@ namespace Infrastructure.Migrations
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
+                    b.Property<string>("Repository")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
                     b.HasKey("Id");
 
                     b.HasIndex("OrderId");
@@ -72,6 +76,9 @@ namespace Infrastructure.Migrations
                     b.Property<DateTime>("ImportDate")
                         .HasColumnType("datetime(6)");
 
+                    b.Property<bool>("IsDelete")
+                        .HasColumnType("tinyint(1)");
+
                     b.Property<string>("Location")
                         .IsRequired()
                         .HasColumnType("longtext");
@@ -86,6 +93,10 @@ namespace Infrastructure.Migrations
 
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
+
+                    b.Property<string>("Repository")
+                        .IsRequired()
+                        .HasColumnType("longtext");
 
                     b.HasKey("Id");
 

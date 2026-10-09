@@ -11,7 +11,11 @@ namespace Application.IServices
         public Task<CursorPagedResult<dynamic>> GetOrder(int? lastId = null, int pageSize = 20);
         public Task<List<OrderResponse>> GetOrderByMaterialCode(string materialCode);
         public Task<ExportResult> ExportOrderAsync(int id, int quantity);
-        public Task<List<OrderResponse>> GetOrders();
+        public Task<List<OrderResponse>> GetOrders(); // not include quantity = 0
+        public Task<List<OrderResponse>> GetOrdersByRepositoryAndStatus(string? repository, int? status, bool? isQuantity);
+
+        public Task<List<OrderResponse>> GetAllOrders(); // include quantity = 0
+        public Task<OrderResponse> DeleteOrder(int id);
 
     }
 }

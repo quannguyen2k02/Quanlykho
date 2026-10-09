@@ -14,7 +14,7 @@ namespace Infrastructure.Repositories
 
         public async Task<List<Order>> GetOrdersByMaterialCode(string materialCode)
         {
-            var orders = await _context.Orders.Where(x => x.Material_Code == materialCode && x.Quantity > 0).OrderBy(x=>x.ExpiredDate).ToListAsync();
+            var orders = await _context.Orders.Where(x => x.Material_Code == materialCode && x.Quantity > 0 && x.IsDelete == false).OrderBy(x=>x.ExpiredDate).ToListAsync();
             return orders;
         }
         public async Task<Order> ExportOrderAsync(int id, int quantity)

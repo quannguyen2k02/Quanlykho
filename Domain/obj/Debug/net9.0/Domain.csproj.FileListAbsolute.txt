@@ -10,3 +10,4 @@ F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\refint\Domain.dll
 F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.pdb
 F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\ref\Domain.dll
 F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.csproj.Up2Date
+F:\Code\Kho_API\Quan_Ly_Kho\Domain\obj\Debug\net9.0\Domain.sourcelink.json

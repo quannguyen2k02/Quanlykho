@@ -21,6 +21,8 @@ namespace Infrastructure.Repositories
             GRId = s.Order!.OrderCode,
             Material_Code = s.Order!.Material_Code,
             Quantity = s.Quantity,
+            FromRepository = s.Order!.Repository,
+            Repository = s.Repository,
             Location = s.Location,
             EmployeeCode = s.EmployeeCode,
             DateTime = s.DateTime

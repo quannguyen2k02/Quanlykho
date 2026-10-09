@@ -8,6 +8,7 @@
         public string Location { get; set; }
         public int Quantity { get; set; }
         public DateTime ImportDate { get; set; }
+        public string Repository { get; set; }
         public DateTime ExpiredDate { get; set; }
         public string EmployeeCode { get; set; }
 
@@ -16,7 +17,7 @@
         {
             get
             {
-                var now = ImportDate;
+                var now = DateTime.Now;
 
                 if (ExpiredDate <= now) return 0; // hết hạn
                 if (ExpiredDate <= now.AddMonths(3)) return 1; // dưới 3 tháng

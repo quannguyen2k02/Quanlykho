@@ -13,3 +13,4 @@ F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\ref\Application.dll
 F:\Code\Kho_API\Quan_Ly_Kho\Application\bin\Debug\net9.0\Domain.dll
 F:\Code\Kho_API\Quan_Ly_Kho\Application\bin\Debug\net9.0\Domain.pdb
 F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+F:\Code\Kho_API\Quan_Ly_Kho\Application\obj\Debug\net9.0\Application.sourcelink.json
