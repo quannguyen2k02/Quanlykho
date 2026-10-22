@@ -20,7 +20,7 @@ namespace Infrastructure.Services
             _slipRepository = slipRepository;
             _mapper = mapper;
         }
-        public async Task<ExportResult> AddNewSlipAsync(SlipRequest request)
+        public async Task<ExportResult> AddNewSlipAsync(SlipRequest request, string employeeCode)
         {
             // 1. Validate đầu vào 
             if (request.Quantity <= 0)
@@ -36,7 +36,9 @@ namespace Infrastructure.Services
                 return ExportResult.Insufficient(o.Quantity);
             var result = await _orderRepository.ExportOrderAsync(request.OrderId, request.Quantity);
             request.DateTime = DateTime.Now;
-            var slip = await _slipRepository.Add(_mapper.Map<ExportSlip>(request));
+            var slip = _mapper.Map<ExportSlip>(request);
+            slip.EmployeeCode = employeeCode;
+            var a = await _slipRepository.Add(slip);
             
             return ExportResult.Success(result.Quantity);
         }

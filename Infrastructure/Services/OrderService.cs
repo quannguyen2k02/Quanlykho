@@ -24,11 +24,12 @@ namespace Infrastructure.Services
         /* ============================================================
            1) THÊM ĐƠN MỚI
            ============================================================ */
-        public async Task<OrderResponse> AddNewOrder(OrderRequest order)
+        public async Task<OrderResponse> AddNewOrder(OrderRequest order, string employeeCode)
         {
+            
             var o = _mapper.Map<Order>(order);
             o.IsDelete = false;
-
+            o.EmployeeCode = employeeCode;
             var created = await _orderRepository.Add(o);
             return _mapper.Map<OrderResponse>(created);
         }
@@ -147,6 +148,22 @@ namespace Infrastructure.Services
             }
 
             return response;
+        }
+
+        public async Task<bool> OrderExistLocation(string location)
+        {
+            if (string.IsNullOrWhiteSpace(location))
+                return false;
+
+            var loc = location.Trim().ToUpper();
+
+            var orders = await _orderRepository.Find(x =>
+                x.Location != null &&
+                x.Location.Trim().ToUpper() == loc &&
+                x.IsDelete == false
+            );
+
+            return orders.Any();   
         }
     }
 }

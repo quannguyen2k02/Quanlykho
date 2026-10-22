@@ -7,7 +7,7 @@ namespace Application.IServices
 {
     public interface IOrderService
     {
-        public Task<OrderResponse> AddNewOrder(OrderRequest order);
+        public Task<OrderResponse> AddNewOrder(OrderRequest order, string employeeCode);
         public Task<CursorPagedResult<dynamic>> GetOrder(int? lastId = null, int pageSize = 20);
         public Task<List<OrderResponse>> GetOrderByMaterialCode(string materialCode);
         public Task<ExportResult> ExportOrderAsync(int id, int quantity);
@@ -16,6 +16,7 @@ namespace Application.IServices
 
         public Task<List<OrderResponse>> GetAllOrders(); // include quantity = 0
         public Task<OrderResponse> DeleteOrder(int id);
+        public Task<bool> OrderExistLocation(string location);
 
     }
 }

@@ -12,6 +12,5 @@ namespace Application.DTOs.RequestDTOs
         public DateTime ImportDate { get; set; }
         [JsonIgnore]
         public DateTime ExpiredDate => ImportDate.AddMonths(6);
-        public string EmployeeCode { get; set; }
     }
 }

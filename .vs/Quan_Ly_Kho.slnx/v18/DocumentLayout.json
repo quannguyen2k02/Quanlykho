@@ -3,12 +3,140 @@
   "WorkspaceRootPath": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261022015558_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20261022015558_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\irepositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\irepositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\requestdtos\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestdtos\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\responsedtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\responsedtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\controllers\\slipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\controllers\\slipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\services\\slipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\slipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\iservices\\islipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\iservices\\islipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\requestdtos\\sliprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestdtos\\sliprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\requestdtos\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestdtos\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\irepositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\irepositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\irepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\irepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\requestdtos\\assignrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestdtos\\assignrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261021065225_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20261021065225_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\quan_ly_kho_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\quan_ly_kho_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\iservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\iservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\requestdtos\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestdtos\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\requestdtos\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestdtos\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|f:\\code\\kho_api\\quan_ly_kho\\domain\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|f:\\code\\kho_api\\quan_ly_kho\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261020030118_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20261020030118_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\repositories\\sliprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +151,8 @@
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\exportresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\responsedtos\\slipresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\responsedtos\\slipresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\irepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\irepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261009070503_add-isdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,72 +163,20 @@
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\exportslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\iservices\\islipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\iservices\\islipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\responsedtos\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\responsedtos\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\requestdtos\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestdtos\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\services\\slipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\slipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\dtos\\requestdtos\\sliprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestdtos\\sliprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\irepositories\\isliprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\irepositories\\isliprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\controllers\\slipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\controllers\\slipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\externalservices\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\externalservices\\mapper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\migrations\\20261007062841_delete-grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20261007062841_delete-grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\migrations\\20261007062222_add-location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20261007062222_add-location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\irepositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\irepositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|f:\\code\\kho_api\\quan_ly_kho\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|f:\\code\\kho_api\\quan_ly_kho\\application\\common\\cursorpagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\cursorpagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|f:\\code\\kho_api\\quan_ly_kho\\quan_ly_kho\\quan_ly_kho_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E6CA39BC-A723-B095-3541-EC87FB76607A}|Quan_Ly_Kho\\Quan_Ly_Kho_API.csproj|solutionrelative:quan_ly_kho\\quan_ly_kho_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,89 +186,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExportResult.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\ExportResult.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ExportResult.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\ExportResult.cs",
-              "RelativeToolTip": "Application\\DTOs\\ExportResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20261022015558_ini.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261022015558_ini.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20261022015558_ini.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261022015558_ini.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20261022015558_ini.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T05:37:44.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:35:08.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SlipRepository.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Repositories\\SlipRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SlipRepository.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Repositories\\SlipRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\SlipRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T05:56:55.104Z",
+              "WhenOpened": "2026-10-22T01:55:58.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Application\\IRepositories\\IOrderRepository.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IOrderRepository.cs",
-              "RelativeToolTip": "Application\\IRepositories\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\ResponseDTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ResponseDTOs\\UserDTO.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\ResponseDTOs\\UserDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ResponseDTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T01:52:34.477Z",
+              "WhenOpened": "2026-10-21T12:08:38.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Application\\IServices\\IOrderService.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\IOrderService.cs",
-              "RelativeToolTip": "Application\\IServices\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestDTOs\\OrderRequest.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\OrderRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestDTOs\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T02:00:58.79Z",
+              "WhenOpened": "2026-10-07T02:01:43.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:15:06.352Z",
+              "WhenOpened": "2026-10-06T11:14:17.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Quan_Ly_Kho\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:51:05.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Quan_Ly_Kho\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwDoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T02:36:56.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Application\\IRepositories\\IAccountRepository.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Application\\IRepositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:20:16.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AccountRepository.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAkwMAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:34:35.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\appsettings.json",
+              "RelativeDocumentMoniker": "Quan_Ly_Kho\\appsettings.json",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\appsettings.json",
+              "RelativeToolTip": "Quan_Ly_Kho\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T05:52:19.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestDTOs\\ResetPasswordModel.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\ResetPasswordModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestDTOs\\ResetPasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T12:09:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISlipService.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\ISlipService.cs",
+              "RelativeDocumentMoniker": "Application\\IServices\\ISlipService.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\ISlipService.cs",
+              "RelativeToolTip": "Application\\IServices\\ISlipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:56:24.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SlipController.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\SlipController.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Controllers\\SlipController.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\SlipController.cs",
+              "RelativeToolTip": "Quan_Ly_Kho\\Controllers\\SlipController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:11:19.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SlipService.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\SlipService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\SlipService.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\SlipService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\SlipService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:58:43.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OrderRepository.cs",
@@ -221,7 +372,302 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T02:13:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SlipRequest.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\SlipRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestDTOs\\SlipRequest.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\SlipRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestDTOs\\SlipRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:00:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Application\\IRepositories\\IOrderRepository.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Application\\IRepositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T01:52:34.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Application\\IServices\\IOrderService.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\IOrderService.cs",
+              "RelativeToolTip": "Application\\IServices\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T02:00:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Application\\IRepositories\\IGenericRepository.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Application\\IRepositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:19:58.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Program.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Program.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Program.cs",
+              "RelativeToolTip": "Quan_Ly_Kho\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwGQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T02:48:47.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:23:38.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_Kho\\WeatherForecast.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\WeatherForecast.cs",
+              "RelativeToolTip": "Quan_Ly_Kho\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:59:52.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssignRoleModel.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\AssignRoleModel.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestDTOs\\AssignRoleModel.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\AssignRoleModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestDTOs\\AssignRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:03:36.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:15:06.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Application\\IServices\\ITokenService.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\ITokenService.cs",
+              "RelativeToolTip": "Application\\IServices\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:20:32.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T06:47:29.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20261021065225_ini.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261021065225_ini.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20261021065225_ini.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261021065225_ini.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20261021065225_ini.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:52:25.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Quan_Ly_Kho_API.http",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Quan_Ly_Kho_API.http",
+              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Quan_Ly_Kho_API.http",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Quan_Ly_Kho_API.http",
+              "RelativeToolTip": "Quan_Ly_Kho\\Quan_Ly_Kho_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-07T02:50:16.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:15:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestDTOs\\SignUpModel.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\SignUpModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestDTOs\\SignUpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:19:13.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\SignInModel.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestDTOs\\SignInModel.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\SignInModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestDTOs\\SignInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:18:55.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "Domain\\Constants\\Roles.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Constants\\Roles.cs",
+              "RelativeToolTip": "Domain\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:18:13.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:16:45.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20261020030118_ini.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261020030118_ini.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20261020030118_ini.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261020030118_ini.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20261020030118_ini.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwCAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:01:19.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SlipRepository.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Repositories\\SlipRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SlipRepository.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Repositories\\SlipRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\SlipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:56:55.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:35:08.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ExportResult.cs",
+              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\ExportResult.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ExportResult.cs",
+              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\ExportResult.cs",
+              "RelativeToolTip": "Application\\DTOs\\ExportResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:37:44.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "SlipResponse.cs",
               "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\ResponseDTOs\\SlipResponse.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\ResponseDTOs\\SlipResponse.cs",
@@ -229,38 +675,11 @@
               "RelativeToolTip": "Application\\DTOs\\ResponseDTOs\\SlipResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T06:00:58.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T06:00:58.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\OrderService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAUwIUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T02:13:05.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Controllers\\OrderController.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Quan_Ly_Kho\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T02:36:56.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 40,
               "Title": "OrderResponse.cs",
               "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\ResponseDTOs\\OrderResponse.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\ResponseDTOs\\OrderResponse.cs",
@@ -268,12 +687,11 @@
               "RelativeToolTip": "Application\\DTOs\\ResponseDTOs\\OrderResponse.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwBYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T02:02:39.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T02:02:39.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 38,
               "Title": "20261009070503_add-isdelete.cs",
               "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261009070503_add-isdelete.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20261009070503_add-isdelete.cs",
@@ -281,38 +699,11 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20261009070503_add-isdelete.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T07:05:03.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-09T07:05:03.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderRequest.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\OrderRequest.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\RequestDTOs\\OrderRequest.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\OrderRequest.cs",
-              "RelativeToolTip": "Application\\DTOs\\RequestDTOs\\OrderRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T02:01:43.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ISlipService.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\ISlipService.cs",
-              "RelativeDocumentMoniker": "Application\\IServices\\ISlipService.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IServices\\ISlipService.cs",
-              "RelativeToolTip": "Application\\IServices\\ISlipService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T05:56:24.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 39,
               "Title": "ExportSlip.cs",
               "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Domain\\Entities\\ExportSlip.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ExportSlip.cs",
@@ -320,50 +711,11 @@
               "RelativeToolTip": "Domain\\Entities\\ExportSlip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T01:33:52.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T01:33:52.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SlipService.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\SlipService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\SlipService.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Services\\SlipService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\SlipService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T05:58:43.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SlipRequest.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\SlipRequest.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\RequestDTOs\\SlipRequest.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\DTOs\\RequestDTOs\\SlipRequest.cs",
-              "RelativeToolTip": "Application\\DTOs\\RequestDTOs\\SlipRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T06:00:13.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:15:41.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 41,
               "Title": "ISlipRepository.cs",
               "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\ISlipRepository.cs",
               "RelativeDocumentMoniker": "Application\\IRepositories\\ISlipRepository.cs",
@@ -375,19 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SlipController.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\SlipController.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Controllers\\SlipController.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Controllers\\SlipController.cs",
-              "RelativeToolTip": "Quan_Ly_Kho\\Controllers\\SlipController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T06:11:19.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 42,
               "Title": "ApplicationMapper.cs",
               "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\ExternalServices\\Mapper\\ApplicationMapper.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ExternalServices\\Mapper\\ApplicationMapper.cs",
@@ -399,79 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\GenericRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:14:17.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20261007062841_delete-grid.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261007062841_delete-grid.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20261007062841_delete-grid.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261007062841_delete-grid.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20261007062841_delete-grid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T06:28:42.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20261007062222_add-location.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261007062222_add-location.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20261007062222_add-location.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Migrations\\20261007062222_add-location.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20261007062222_add-location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T06:22:22.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Application\\IRepositories\\IGenericRepository.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\IRepositories\\IGenericRepository.cs",
-              "RelativeToolTip": "Application\\IRepositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:19:58.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-06T11:14:16.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Program.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Program.cs",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Program.cs",
-              "RelativeToolTip": "Quan_Ly_Kho\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T02:48:47.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 43,
               "Title": "CursorPagedResult.cs",
               "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Application\\Common\\CursorPagedResult.cs",
               "RelativeDocumentMoniker": "Application\\Common\\CursorPagedResult.cs",
@@ -480,18 +748,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T02:04:32.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Quan_Ly_Kho_API.http",
-              "DocumentMoniker": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Quan_Ly_Kho_API.http",
-              "RelativeDocumentMoniker": "Quan_Ly_Kho\\Quan_Ly_Kho_API.http",
-              "ToolTip": "F:\\Code\\Kho_API\\Quan_Ly_Kho\\Quan_Ly_Kho\\Quan_Ly_Kho_API.http",
-              "RelativeToolTip": "Quan_Ly_Kho\\Quan_Ly_Kho_API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-10-07T02:50:16.679Z"
             }
           ]
         }
